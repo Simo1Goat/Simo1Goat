@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Habibi Mohamed
 - 👀 I’m interested in Business Intelligence and Machine learning and web development 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking for a internship.
+- 💞️ I’m looking for a end of studies internship.
 - 📫 you can reach me:
 -    medhabi103@gmail.com OR 0700420661
 

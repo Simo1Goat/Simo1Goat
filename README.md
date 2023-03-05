@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habibi Mohamed
-- 👀 I’m interested in Business Intelligence and Machine learning and web development 
+- 👀 I’m interested in Data Engineering and Business Intelligence  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking for a end of studies internship.
 - 📫 you can reach me:
